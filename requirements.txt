@@ -1,1 +1,2 @@
 jsonpickle
+pylint=2.4.8
