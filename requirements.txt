@@ -1,3 +1,2 @@
 jsonpickle
-pylint=2.4.8
-PyYAML=5.3.0
+pylint==2.4.8
